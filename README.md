@@ -2,6 +2,7 @@
 
 A command which creates following output for slack to nofity holidays. 
 
+
 /remind #channel "Tomorrow is Equinox Day in :flag-jp: - Have a good holiday." in 24 days
 /remind #channel "Tomorrow is Good Friday in :flag-gb: - Have a good holiday." in 53 days
 /remind #channel "Tomorrow is Good Friday in :flag-in: - Have a good holiday." in 53 days
@@ -26,3 +27,4 @@ A command which creates following output for slack to nofity holidays.
 /remind #channel "Tomorrow is Christmas Day in :flag-gb: - Have a good holiday." in 303 days
 /remind #channel "Tomorrow is Christmas Day in :flag-in: - Have a good holiday." in 303 days
 /remind #channel "Tomorrow is Boxing Day in :flag-gb: - Have a good holiday." in 304 days
+
